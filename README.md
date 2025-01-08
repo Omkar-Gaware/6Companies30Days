@@ -1,1 +1,3 @@
-# 6Companies30Days
+"I've embarked on a 30-day challenge 🚀 to solve the Data Structures and Algorithms (DSA) question sets from six different companies 🏢. The goal is to enhance my problem-solving skills 🧠, build consistency 📅, and prepare effectively for technical interviews 💻. Each day, I'll tackle a mix of questions, focusing on diverse topics like arrays 📊, strings 🔗, recursion 🔄, dynamic programming 🧮, graphs 🌐, and more. 
+
+This challenge is not only about completing problems ✅ but also understanding the underlying concepts thoroughly 📖. By the end of the month, I aim to have a stronger grasp of DSA 💪 and a clearer pathway toward cracking coding interviews 🎯."
